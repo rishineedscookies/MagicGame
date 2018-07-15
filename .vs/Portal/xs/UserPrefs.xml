@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{7B42D6E2-1FD1-E70C-1A7B-36A1D72E2C01}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="198" Column="67" />
+      <File FileName="Assets/Scripts/FireballController.cs" Line="69" Column="14" />
+      <File FileName="Assets/Scripts/IceballController.cs" Line="5" Column="14" />
+      <File FileName="Assets/Scripts/EnemyController.cs" Line="258" Column="36" />
+      <File FileName="Assets/Scripts/Damage.cs" Line="115" Column="26" />
+      <File FileName="Assets/Scripts/ObjectFactory.cs" Line="32" Column="23" />
+      <File FileName="Assets/Scripts/Spawner.cs" Line="69" Column="69" />
+      <File FileName="Assets/Scripts/Projectile.cs" Line="65" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Portal" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="PlayerController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Portal" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Portal PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
